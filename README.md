@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AyaAbdElaty
-- 👀 I’m interested in programming and art software programs like maya, and i'm looking forward to combine my knowledge in art and programming 
+- 👀 I’m interested in programming, i believe that programming is like magic, so i would love to be a wizard
 - 🌱 I’m currently learning python
 
 
