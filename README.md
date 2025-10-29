@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AyaAbdElaty
-- 👀 I’m interested in programming, i believe that programming is like magic, so i would love to be a wizard
-- 🌱 I’m currently learning python
+- 👀 I’m Interested in programming, I believe that programming is like magic, so i would love to be a wizard
+- 🌱 I’m currently learning Data Science and Machine Learning
 
 
 <!---
